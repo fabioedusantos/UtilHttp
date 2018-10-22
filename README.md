@@ -1,6 +1,6 @@
 # UtilHttp - Classes Http e HttpParam alteradas para qualquer tipo de Request<br />
 
-Faz parte de vários aplicativos Android criadas pelo professor.<br />
+Faz parte de vários aplicativos Android criados pelo professor.<br />
 
 Pode ser utilizado em aplicativos Android utilizado para envio de informações e integrações entre WebServices Restful
 <h3>Professor Especialista Fábio Eduardo dos Santos</h3>
